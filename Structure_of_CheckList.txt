@@ -1,0 +1,7 @@
+1. Build
+2. Environment
+3. Test date
+4. Tester
+5. Test Type
+6. Checking
+7. Result
